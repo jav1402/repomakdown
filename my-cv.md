@@ -1,6 +1,6 @@
-Currículum Vitae
+# **Currículum Vitae**
 
-Datos Personales
+## **Datos Personales**
 
 Nombre: Alejandro Torres Giménez
 
@@ -18,7 +18,7 @@ Piloto de caza con más de 1.500 horas de vuelo en aeronaves de combate, especia
 
 Experiencia Laboral
 
-## Experiencia
+## **Experiencia**
 
 **Piloto de Caza – Capitán**
 
@@ -82,6 +82,7 @@ F-18:
 ## 7. Código
 
 ### Código en línea
+
 
 Ejemplo: Usa el comando `git status`.
 
