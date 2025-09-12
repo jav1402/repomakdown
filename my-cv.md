@@ -107,31 +107,55 @@ console.log(saludar("Mundo"));
 
 ## 8. Citas
 
-> Esto es una cita de ejemplo.  
-> Se usa el símbolo `>` al inicio de la línea.
+> El experimentado piloto de combate no toma riesgos innecesarios. Su negocio es derribar aviones enemigos, no ser derribado.” – Eddie Rickenbacker.
+
+> “Los pilotos de combate tienen hielo en las venas. No tienen emociones. Piensan, anticipan. Saben que el miedo y otras preocupaciones nublan tu mente sobre lo que está pasando y en lo que deberías involucrarte.” – Buzz Aldrin.
 
 ---
 
 ## 9. Checklist
 
-- [x] Aprender títulos
-- [x] Practicar listas
-- [ ] Insertar una tabla
-- [ ] Subir mi archivo a GitHub
+- [x] Revisión física y mental del piloto (estado de alerta, salud y descanso).
+
+- [x] Briefing de misión: objetivo, ruta, meteorología, y NOTAMs actualizados.
+
+- [x] Plan de vuelo verificado y registrado.
+
+- [x] Plan de vuelo verificado y registrado.
+- [x] Plan de vuelo verificado y registrado.
+- [x] Plan de vuelo verificado y registrado.
+- [x] Documentación personal y de la aeronave en cabina (licencia, manual, certificado de aeronavegabilidad).
+
+- [x] Revisión exterior del avión (fuselaje, alas, tren de aterrizaje y sistemas).
+
+- [x] Verificación combustible suficiente y sin contaminación.
+
+- [x] Inspección de equipos de emergencia (oxígeno, extintor, botiquín, arnés de eyección).
+
+- [x] Comprobación instrumental y aviónica (radar, comunicaciones, navegación).
+
+- [x] Chequear controles de vuelo y sistemas hidráulicos.
+
+- [x] Confirmar armamento y sistemas de defensa aprestados (si aplica).
+
+- [x] Final: autorización de torre, checklist cabina y listo para rodar.
+---
+
+## 10. CUALIDADES
+
+Capacidad para analizar situaciones en fracciones de segundo y actuar con precisión bajo presión.
 
 ---
 
-## 10. Separadores
-
-Se crean con tres guiones o más:
+Conocimiento avanzado y manejo experto de la aeronave y sistemas de armamento.
 
 ---
 
----
+Excelente estado físico y estabilidad emocional para soportar las exigencias del vuelo y combate.
 
 ---
 
----
+✅TODOS PRACTICADOS
 
-✅ Con este documento puedes practicar **todos los elementos básicos de Markdown**.  
-Ahora crea tu propio archivo usando al menos 6 de ellos. 🎉
+![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQwemdiNGdqbTdjeDhuNWJycDBkN2Z2Yms5MDJ1MjczeWMzcWIyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/atQF1zaSGq8s8/giphy.gif)
+
