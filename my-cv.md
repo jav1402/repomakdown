@@ -79,29 +79,6 @@ F-18:
 
 ---
 
-## 7. Código
-
-### Código en línea
-
-
-Ejemplo: Usa el comando `git status`.
-
-### Bloque de código (bash)
-
-```bash
-git init
-git add .
-git commit -m "Mi primer commit"
-```
-
-### Bloque de código (JavaScript)
-
-```javascript
-function saludar(nombre) {
-  return `Hola, ${nombre}!`;
-}
-console.log(saludar("Mundo"));
-```
 
 ---
 
